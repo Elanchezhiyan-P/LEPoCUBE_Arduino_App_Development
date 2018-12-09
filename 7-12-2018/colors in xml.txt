@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="darkGreen">#04bf11</color>
+    <color name="black">#010a08</color>
+    <color name="red">#d81b2e</color>
+    <color name="blue">#1255e6</color>
+    <color name="silver">#C0C0C0</color>
+    <color name="steelBlue">#4682B4</color>
+    <color name="navajowhite">#FFDEAD</color>
+    <color name="gold">	#FFD700</color>
+</resources>
