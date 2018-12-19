@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000807</color>
+    <color name="lightGreen">#06f416</color>
+    <color name="red">#f40817</color>
+    <color name="blue">#082ff4</color>
+    <color name="yellow">#f4dc08</color>
+    <color name="skyBlue">#08f4d5</color>
+    <color name="violet">#ec08f4</color>
+    <color name="orange">#ffA500</color>
+    <color name="lightSteelBlue">#B0D4CE</color>
+    <color name="Peru">#CD853F</color>
+    <color name="gold">#FFd700</color>
+    <color name="silver">#fdc2c4c6</color>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+</resources>
