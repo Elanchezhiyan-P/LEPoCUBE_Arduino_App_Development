@@ -1,0 +1,7 @@
+https://developers.facebook.com/docs/facebook-login/android
+
+https://firebase.google.com/docs/auth/android/facebook-login?authuser=0
+
+https://developers.facebook.com/apps/1596853567127557/fb-login/settings/
+
+https://console.firebase.google.com/project/autom-1/authentication/users
